@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Wood Blacksmith\t$m$p$$$\Wood Blacksmith.max
+C:\Users\Administrator\Desktop\Wood Blacksmith\t$m$p$$$\MAXFILES.TXT
+C:\Program Files (x86)\Autodesk\3ds Max 2011\Maps\glare\glare_streaks_star_camera_filter.tif
+C:\Program Files (x86)\Autodesk\3ds Max 2011\maps\Metal\TinFoil.jpg
+C:\Users\Administrator\Desktop\Graphics\3D Files\Materials\Wood\DeckWoodCutout.jpg
+C:\Users\Administrator\Desktop\Graphics\3D Files\Materials\maps\Wood\DRIFTWDToon.jpg
+C:\Users\Administrator\Desktop\Graphics\3D Files\Materials\Soot.bmp
+C:\Program Files (x86)\Autodesk\3ds Max 2011\maps\Metal\STEELPLT.JPG
+C:\Program Files (x86)\Autodesk\3ds Max 2011\maps\Metal\METAL7.JPG
+C:\Users\Administrator\Desktop\Graphics\3D Files\Materials\Wood\Bark.JPG
+C:\Users\Administrator\Desktop\Graphics\3D Files\Materials\maps\Wood\GRYPLANKToon.jpg
+C:\Program Files (x86)\Autodesk\3ds Max 2011\maps\Wood\OLDWOOD.JPG
+C:\Users\Administrator\Desktop\Graphics\3D Files\Materials\RedColor.bmp
+C:\Users\Administrator\Desktop\Graphics\3D Files\Materials\TextureBump.png
+C:\Users\Administrator\Desktop\Graphics\3D Files\Materials\Shingles\ThatchRoof2Toon.jpg
+C:\Users\Administrator\Desktop\Graphics\3D Files\Materials\Stone_Brick\ConcreteWithCrack.JPG
